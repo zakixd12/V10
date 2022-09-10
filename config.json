@@ -1,0 +1,17 @@
+{
+    "ownerNumber": "6289506219231@s.whatsapp.net", 
+    "ownerName": "JACKY-TRON", 
+    "botName": "TRON-MD",
+    "footer": "© TRONMD | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "Jacky Tron"
+    }
+}
